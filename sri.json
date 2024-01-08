@@ -175,7 +175,7 @@
           "underline": false,
           "color": "#000000",
           "italic": false,
-          "fontSize": 52px,
+          "fontSize": 52,
           "fontFamily": "Roboto",
           "textEffect": "none",
           "textEffectDuration": "5s"

@@ -137,7 +137,7 @@
         }
       },
      {
-        "type": "text",
+      "type": "text",
         "id": "babf5c3b-03aa-48bd-ac74-fb2b145fa11b",
         "x": 0,
         "y": -20,
@@ -161,7 +161,8 @@
           "duration": 5,
           "textEffect": "none",
           "textEffectDuration": "5s"
-        },
+        }
+      },
       {
         "type": "text",
         "id": "babf5c3b-03aa-48bd-ac74-fb2b145fa11b",

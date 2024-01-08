@@ -139,7 +139,7 @@
      {
         "type": "text",
         "id": "babf5c3b-03aa-48bd-ac74-fb2b145fa11b",
-        "x": 00,
+        "x": 0,
         "y": -20,
         "width": 253,
         "height": 100,
@@ -149,7 +149,7 @@
           "underline": false,
           "color": "#000000",
           "italic": false,
-          "fontSize": 52px,
+          "fontSize": 52,
           "fontFamily": "Roboto",
           "textEffect": "none",
           "textEffectDuration": "5s"

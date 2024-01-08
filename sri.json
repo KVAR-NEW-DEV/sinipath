@@ -2,19 +2,27 @@
   "allPages": {
     "page1": [
       {
+        position: absolute;
+    left: 0px;
+    top: -20px;
+    width: 300px;
+    height: 105px;
+    color: rgb(211 31 31);
+    font-size: 59px;
+    font-family: Roboto;
         "type": "text",
         "id": "96e6b073-3800-413c-a546-e754424b190b",
         "x": 0,
-        "y": 98,
-        "width": 100,
+        "y": -21,
+        "width": 300,
         "height": 100,
         "content": "GSM:",
         "textProperties": {
-          "bold": false,
+          "bold": true,
           "underline": false,
-          "color": "#000000",
+          "color": "#e32a09",
           "italic": false,
-          "fontSize": 10,
+          "fontSize": 59,
           "fontFamily": "Roboto",
           "textEffect": "none",
           "textEffectDuration": "5s"
@@ -136,20 +144,20 @@
           "textEffectDuration": "5s"
         }
       },
-      {
+     {
         "type": "text",
-        "id": "9731e3de-b600-4b9f-9e82-fc953502cb1e",
-        "x": 0,
-        "y": 0,
-        "width": 100,
-        "height": 105,
-        "content": "CO Scanner",
+        "id": "babf5c3b-03aa-48bd-ac74-fb2b145fa11b",
+        "x": 00,
+        "y": -20,
+        "width": 253,
+        "height": 100,
+        "content": "Co Scannerr",
         "textProperties": {
-          "bold": false,
+          "bold": true,
           "underline": false,
           "color": "#000000",
           "italic": false,
-          "fontSize": 10,
+          "fontSize": 52px,
           "fontFamily": "Roboto",
           "textEffect": "none",
           "textEffectDuration": "5s"
@@ -161,22 +169,21 @@
           "duration": 5,
           "textEffect": "none",
           "textEffectDuration": "5s"
-        }
-      },
+        },
       {
         "type": "text",
         "id": "babf5c3b-03aa-48bd-ac74-fb2b145fa11b",
-        "x": 0,
-        "y": 0,
-        "width": 100,
+        "x": 333,
+        "y": -2,
+        "width": 253,
         "height": 100,
         "content": "PL Scanner",
         "textProperties": {
-          "bold": false,
+          "bold": true,
           "underline": false,
           "color": "#000000",
           "italic": false,
-          "fontSize": 10,
+          "fontSize": 52px,
           "fontFamily": "Roboto",
           "textEffect": "none",
           "textEffectDuration": "5s"
